@@ -50,6 +50,5 @@ tensorboard --logdir metrics_tensorboard_siamese/validation/
 ```
 python3 cross_xai.py
 ```
-## Tensorboard over the trained models
 
 
