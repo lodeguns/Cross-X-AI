@@ -37,6 +37,12 @@ Supevised U-Net liver segmentation : unet_weights folder
 ```
 python3 evaluate_depth.py
 python3 evaluate_seg.py
+
+#to test training U-Net metrics (segmentation task)
+python3 read_unet_metrics.py
+
+# to test training Siamese metrics (depth estimation task)
+tensorboard --logdir metrics_tensorboard_siamese/validation/     
 ```
 
 ## While to run our models for Cross-X-AI
@@ -44,5 +50,6 @@ python3 evaluate_seg.py
 ```
 python3 cross_xai.py
 ```
+## Tensorboard over the trained models
 
 
