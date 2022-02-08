@@ -28,7 +28,7 @@ strategies similar to disparity explanations (and vice versa).
 10 images are represented into the numpy files: X_test.npy and Y_test.npy for both X-Depth explanations and
 X-Seg explanations. To access the whole repository please contact: Francesco Bardozzo - fbardozzo at unisa dot com
 
-##Already trained models
+## Pre-trained models are on:
 Supervised depth estimation : depth_ep18.hdf5
 Supevised U-Net liver segmentation : unet_weights folder
 
