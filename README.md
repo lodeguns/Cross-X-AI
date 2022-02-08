@@ -1,6 +1,7 @@
 # Cross-X-AI
 ## Cross X-AI: Explainable semantic segmentation of laparoscopic images in relation with depth estimations.
 
+
 This is the reference Python repository 
 for training and testing depth estimation and segmentation models
 for Cross Explainable AI.
@@ -50,5 +51,10 @@ tensorboard --logdir metrics_tensorboard_siamese/validation/
 ```
 python3 cross_xai.py
 ```
+
+in the folder X_test is provided a sample file in output from cross_xai.py.
+ 
+ 
+ 
 
 
