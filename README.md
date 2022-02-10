@@ -1,6 +1,10 @@
 # Cross-X-AI
 ## Cross X-AI: Explainable semantic segmentation of laparoscopic images in relation with depth estimations.
 
+Francesco Bardozzo, Mattia Delli Priscoli, Toby Collins, Antonello Forgione, Alexandre Hostettler, Roberto Tagliaferri
+
+submitted to WCCI 2022
+
 
 
 This is the reference Python repository 
