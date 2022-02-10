@@ -2,6 +2,7 @@
 ## Cross X-AI: Explainable semantic segmentation of laparoscopic images in relation with depth estimations.
 
 
+
 This is the reference Python repository 
 for training and testing depth estimation and segmentation models
 for Cross Explainable AI.
@@ -23,6 +24,12 @@ their decisions based on the two proposed approaches. Despite that, our results 
 the Grad Cam++ segmentation explanation maps present cross-learning/classification 
 strategies similar to disparity explanations (and vice versa).
 ```
+
+
+
+![Test Image 6](https://github.com/lodeguns/Cross-X-AI/blob/main/pipexai.png)
+
+
 
 
 ## Small sample dataset
