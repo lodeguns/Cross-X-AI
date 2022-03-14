@@ -66,6 +66,7 @@ python3 cross_xai.py
 in the folder X_test is provided a sample file in output from cross_xai.py.
  
  
- 
+ You should cite this paper:
+ Bardozzo, Francesco, et al. "StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction in modern 3D laparoscopy." Medical Image Analysis 77 (2022): 102380.
 
 
