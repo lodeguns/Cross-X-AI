@@ -12,8 +12,8 @@ for training and testing depth estimation and segmentation models
 for Cross Explainable AI.
 
 ```
-In this work, two supervised deep learning models, trained to segment the liver and perform
-its depth reconstruction, are compared and analysed by means of their post-hoc  explanation
+In this work, two deep learning models, trained to segment the liver and perform
+its depth reconstruction, are compared and analysed by means of their post-hoc explanation
 interplay. The first model (a \emph{U-Net}) is designed to perform liver semantic
 segmentation over different subjects and scenarios. In detail, the image pixels representing
 the liver are classified and separated by the surrounding pixels. Meanwhile, with the second
