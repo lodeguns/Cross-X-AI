@@ -70,7 +70,9 @@ in the folder X_test is provided a sample file in output from cross_xai.py.
 ## Citation
 
 ```
-Bardozzo, Francesco, et al. "StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction
+- Bardozzo, Francesco, et al. "Cross X-AI: Explainable Semantic Segmentation of Laparoscopic Images in Relation to Depth Estimation." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022.
+
+- Bardozzo, Francesco, et al. "StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction
 in modern 3D laparoscopy." Medical Image Analysis 77 (2022): 102380.
 ```
 
